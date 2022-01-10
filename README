@@ -1,0 +1,11 @@
+Basic paradigm of object-oriented programming;
+Basic data types and operations on variables of different types;
+Control structures responsible for the implementation of the program: loops and decision making
+Mechanisms for handling exceptions and errors that can occur during the execution of the program;
+Basic principles of work with the input and output flows;
+Various data structures to store and manipulate data
+Collections management, applying data structures suitable for each task;
+Functional Interfaces. Lambda. Stream API. Data and Time API;
+Maven. Code convention. Debugging
+JDBC. DataBase introduction;
+Servlet, jps. Introduction to web programming
